@@ -31,6 +31,12 @@ def IngresarValidarPersonales():
 
         flag = False
 
+    #Ingresar Contactos
+    flag = True
+    while flag:
+        Contacto = input()
+
+
 
 
 
